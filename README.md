@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauthamkrishnamv
+- 👋 Hi, I’m gautham
 - 👀 I’m interested in cybersecurity, pen testing, redteaming
 - 💞️ I’m looking to collaborate on interships and live sessions
 
